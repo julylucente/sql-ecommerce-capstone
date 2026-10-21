@@ -1,8 +1,8 @@
-***# Proyecto Final: Análisis de Ventas de un E-commerce con PostgreSQL***
+# Proyecto Final: Análisis de Ventas de un E-commerce con PostgreSQL
 
 
 
-**## 1. Descripción del proyecto**
+## 1. Descripción del proyecto
 
 
 
@@ -20,7 +20,7 @@ El proyecto simula el flujo de trabajo de un analista de datos, incluyendo la cr
 
 
 
-**## 2. Problema de negocio**
+## 2. Problema de negocio
 
 
 
@@ -58,7 +58,7 @@ Para responder a estas necesidades se plantearon seis preguntas:
 
 
 
-**## 3. Herramientas utilizadas**
+## 3. Herramientas utilizadas
 
 
 
@@ -76,7 +76,7 @@ GitHub: publicación y documentación del proyecto.
 
 
 
-**## 4. Dataset y estructura**
+## 4. Dataset y estructura
 
 
 
@@ -106,7 +106,7 @@ Las tablas se relacionan mediante identificadores de clientes y productos, utili
 
 
 
-**## 5. Limpieza y validación de datos**
+## 5. Limpieza y validación de datos
 
 
 
@@ -136,7 +136,7 @@ También se verificó que las fechas utilizaran el tipo DATE, los precios el tip
 
 
 
-**## 6. Resultados del análisis**
+## 6. Resultados del análisis
 
 
 
@@ -158,7 +158,7 @@ Este resultado permite distinguir entre clientes de mayor frecuencia de compra y
 
 
 
-**###6.2.** Evolución de ventas mensuales
+###6.2. Evolución de ventas mensuales
 
 
 
@@ -176,7 +176,7 @@ Marzo registró seis pedidos valorizados y abril cinco, pero abril generó más 
 
 
 
-**###6.3.** Productos menos vendidos
+###6.3. Productos menos vendidos
 
 
 
@@ -206,7 +206,7 @@ Sin embargo, es importante considerar el valor económico de cada producto antes
 
 
 
-**###6.4.** Ranking de pedidos por categoría
+###6.4. Ranking de pedidos por categoría
 
 
 
@@ -224,7 +224,7 @@ Este resultado demuestra que diferentes combinaciones de productos y cantidades 
 
 
 
-**###6.5.** Ingresos por categoría
+###6.5. Ingresos por categoría
 
 
 
@@ -241,8 +241,7 @@ Accesorios registró un mayor volumen de unidades vendidas, pero una facturació
 
 
 
-
-**###6.6.** Clientes recurrentes
+###6.6. Clientes recurrentes
 
 
 
@@ -260,7 +259,7 @@ El análisis permite reconocer clientes recurrentes y estudiar su contribución 
 
 
 
-**## 7. Conclusiones y recomendaciones**
+## 7. Conclusiones y recomendaciones
 
 
 
@@ -294,7 +293,7 @@ Los resultados corresponden a un dataset ficticio y deben interpretarse como un 
 
 
 
-**## 8. Instrucciones de ejecución**
+## 8. Instrucciones de ejecución
 
 
 
@@ -332,7 +331,7 @@ Los scripts están diseñados para ejecutarse sobre una base de datos nueva, sin
 
 
 
-**## 9. Archivos del repositorio**
+## 9. Archivos del repositorio
 
 
 
@@ -350,7 +349,7 @@ README.md: documentación, resultados y conclusiones del proyecto.
 
 
 
-**## 10. Alcance y limitaciones**
+## 10. Alcance y limitaciones
 
 
 
